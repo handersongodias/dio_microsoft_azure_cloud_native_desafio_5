@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com Visual Code , GitHub Copilot
 
 ### 3. Crie com o chat 
       va no chat do Copilot e selecione a opção "ASK" e a IA que gostaria usar
-      informe os seguientes prompt 
+      informe os seguintes prompt 
       @workspace /new , apos ele informe o que deseja que ele criasse, conforme exemplo
 ---
       @workspace /new crie um jogo de roleta com a velocidade mantendo a rotação e uma bolinha batendo no meio seguindo as leis da fisica no planeta terra, utilize o html, css, javascript, e canva no html para criar as formas e a animação
